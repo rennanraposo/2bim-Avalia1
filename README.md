@@ -22,6 +22,6 @@ Framework preset: `None`. Build command: vazio. Build output directory: `public`
 
 ## Identificação (preencha após o fork)
 
-Nome: 
-RA: 
-URL: https://
+Nome: Rennan Raposo
+RA: 2026107596
+URL: https://desenho-assinado-rennan.pages.dev
